@@ -41,5 +41,5 @@ pip3 install -r requirements.txt
 To detect face masks in real-time video streams type the following command:
 
 ```sh
-python3 detect_mask_video.py
+python3 index.py
 ```
