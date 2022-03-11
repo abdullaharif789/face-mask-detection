@@ -9,3 +9,9 @@ To use this application, you need to install latest version of `python` and afte
 ```sh
 pip3 install -r requirements.txt
 ```
+
+To run this
+
+```sh
+python index.py
+```
